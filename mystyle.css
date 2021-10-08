@@ -1,0 +1,38 @@
+.navbar {list-style-type: none; display: inline; color:blue; border: cornsilk dotted;   margin: 0;
+    padding: 0;
+    width: 60px}
+
+li,display {font-family:Arial, Helvetica, sans-serif; display: block; padding-top: 10px;padding-bottom: 10px; color: blue; font-weight: bolder;}
+
+body,font {text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: x-small; color: blueviolet; background-color: blanchedalmond;}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:cornflowerblue;
+    color: black;
+    text-align: center;}
+
+h1,h2,p,font {font-family: Verdana, Geneva, Tahoma, sans-serif; color:black; background-color: blanchedalmond;}
+
+.form {width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;}
+
+    .images {display: block;
+        margin-left: auto;
+        margin-right: auto; padding-top: 25px; padding-bottom: 25px;}
+
+        @media screen and (min-width: 1024px) {
+            header {border: blueviolet solid;
+              background-color: pink;
+              font-size: x-large;
+              color: rebeccapurple;
+            }
+          }
